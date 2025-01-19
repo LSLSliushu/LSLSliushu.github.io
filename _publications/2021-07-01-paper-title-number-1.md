@@ -2,7 +2,7 @@
 title: "Learning stochastic behaviour from aggregate data."
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-1-paper-title-number-1
+permalink: /publication/2021-07-01-paper-title-number-1
 excerpt: ''
 date: 2021-07
 venue: 'Proceedings of the 38th International Conference on Machine Learning (ICML)'
