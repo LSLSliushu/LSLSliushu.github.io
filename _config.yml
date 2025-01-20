@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shu Liu / "
+title                    : "Shu Liu"
 title_separator          : "-"
 name                     : &name "Shu Liu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "LSLSliushu/LSLSliushu.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Shu"
+  name             : "Shu Liu"
   pronouns         : # example: "he/his"  
   bio              : ""
   location         : "Los Angeles, CA, US"
