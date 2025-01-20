@@ -6,7 +6,7 @@ permalink: /publication/2022-04-01-paper-title-number-3
 excerpt: 'Shu Liu, Wuchen Li, Hongyuan Zha, Haomin Zhou'
 date: 2022-04-01
 venue: 'SIAM Journal on Numerical Analysis, Vol. 60, Iss. 3, pp. 1385-1449, 2022'
-slidesurl: ''
+slidesurl: 'http://LSLSliushu.github.io/files/WGFs_on_generative_model_slides.pdf'
 paperurl: 'http://LSLSliushu.github.io/files/PFPE_SINUM.pdf'
 citation: ''
 ---
