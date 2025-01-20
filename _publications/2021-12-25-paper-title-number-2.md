@@ -1,5 +1,5 @@
 ---
-title: "What is a stochastic Hamiltonian process on finite graph? An optimal transport answer."
+title: "What is a stochastic Hamiltonian process on finite graph? An optimal transport answer"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-25-paper-title-number-2
