@@ -3,7 +3,7 @@ title: "Neural Monge Map estimation and its applications."
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-01-paper-title-number-7
-excerpt: 'Jiaojiao Fan*, Shu Liu*, Shaojun Ma, Haomin Zhou, Yongxin Chen'
+excerpt: 'Jiaojiao Fan∗, Shu Liu∗, Shaojun Ma, Haomin Zhou, Yongxin Chen'
 date: 2023-05-01
 venue: 'Transaction on Machine Learning Research [Featured Certification]'
 slidesurl: 'http://LSLSliushu.github.io/files/NeuralMongeMapSlides.pdf'
