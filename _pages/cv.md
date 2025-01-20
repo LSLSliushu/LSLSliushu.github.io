@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Science & Engineering (with home unit in School of Mathematics), Georgia Institute of Technology, 2022
-* B.S. in Mathematics, Zhejiang University, 2016
+* B.S. in Mathematics, Zhejiang University (Chu Kochen Honors College), 2016
 
 Work experience
 ======
