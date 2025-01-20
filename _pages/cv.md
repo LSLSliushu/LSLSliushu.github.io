@@ -26,13 +26,13 @@ To be updated.
 Teaching
 ======
 At UCLA (2022-)
--Item 1 Instructor for PIC 10A Introduction to programming (C++)
--Item 2 Instructor for PIC 20A Java Language and its application
+* Instructor for PIC 10A Introduction to programming (C++)
+* Instructor for PIC 20A Java Language and its application
 
 At Georgia Institute of Technology (2016-2022)
--Item 1 TA for MATH 2551 [Multivariable Calculus]
--Item 2 TA for MATH 2552 [Differential Equations]
--Item 3 TA for MATH 1551 [Differential Calculus]
--Item 4 TA for MATH 1552 [Integral Calculus]
+* TA for MATH 2551 [Multivariable Calculus]
+* TA for MATH 2552 [Differential Equations]
+* TA for MATH 1551 [Differential Calculus]
+* TA for MATH 1552 [Integral Calculus]
 
 
