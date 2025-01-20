@@ -3,7 +3,7 @@ title: "A supervised learning scheme for computing HamiltonJacobi equation via d
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-15-paper-title-number-14
-excerpt: ''
+excerpt: 'Jianbo Cui, Shu Liu, Haomin Zhou'
 date: 2024-01-15
 venue: 'arXiv: 2401.15954.'
 slidesurl: ''
