@@ -1,6 +1,6 @@
 ---
 title: "Learning stochastic behaviour from aggregate data."
-collection: publications
+collection: conferences
 category: manuscripts
 permalink: /publication/2021-07-01-paper-title-number-6
 excerpt: ''
