@@ -3,7 +3,7 @@ title: "Wasserstein Hamiltonian flow with common noise on graph."
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-01-paper-title-number-4
-excerpt: ''
+excerpt: 'Jianbo Cui, Shu Liu, Haomin Zhou'
 date: 2023-08-01
 venue: 'SIAM Journal on Applied Mathematics, Vol. 83, Iss. 2 pp. 484 - 509, 2023.'
 slidesurl: ''
