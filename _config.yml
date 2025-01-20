@@ -16,7 +16,7 @@ url                      : https://LSLSliushu.github.io # https://academicpages.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LSLSliushu/LSLSliushu.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following controls what appears as part of the author content on the sidebar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : ""
   location         : "Los Angeles, CA, US"
-  employer         : "Red Brick University"
+  employer         : "University of California, Los Angeles"
   uri              : # URL
   email            : "shuliu@math.ucla.edu" 
 
