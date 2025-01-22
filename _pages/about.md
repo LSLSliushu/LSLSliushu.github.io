@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 My name is Shu Liu. I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA. 
-I obtained my Ph.D. from the Computational Science & Engineering program at Georgia Institute of Technology in 2022 under the supervision of Dr. Haomin Zhou. 
-I obtained my Bachelor's degree in Mathematics from Zhejiang University in 2016. 
+I obtained my Ph.D. from the Computational Science & Engineering program at Georgia Institute of Technology in 2022 under the supervision of Dr. Haomin Zhou. I obtained my Bachelor's degree in Mathematics from Zhejiang University in 2016. 
 Here is my [CV](http://LSLSliushu.github.io/files/cv.pdf).
 
 My research focuses on scientific computing, numerical analysis, and machine learning, with an emphasis on efficient, scalable algorithms for partial differential equations and beyond:
