@@ -7,6 +7,5 @@ excerpt: 'Shu Liu*, Haodong Sun*, Hongyuan Zha'
 date: 2021-07-21
 venue: 'Geometric Science of Information, 2021'
 paperurl: 'http://lslsliushu.github.io/files/A Particle-Evolving Method for Approximating the Optimal Transport Plan.pdf'
-videourl: ''
 ---
 A complete version is available at [https://arxiv.org/abs/2105.06088](https://arxiv.org/abs/2105.06088).
