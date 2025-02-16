@@ -1,5 +1,5 @@
 ---
-title: "A supervised learning scheme for computing HamiltonJacobi equation via density coupling"
+title: "A supervised learning scheme for computing Hamilton-Jacobi equation via density coupling"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-15-paper-title-number-14
