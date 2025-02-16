@@ -8,6 +8,7 @@
 3. _pages/publications.html  determines the layout of the entire publication page [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
 
 4. _pages/about.md, determines other pages (e.g. About) in your personal webpage [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+
    _pages/cv.md, determines other pages (e.g. CV) in the personal webpage [https://lslsliushu.github.io/cv/](https://lslsliushu.github.io/cv/), ...
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
