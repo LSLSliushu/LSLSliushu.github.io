@@ -54,15 +54,15 @@
     {% endif %}
 
     {% if post.paperurl and post.slidesurl and post.videourl and post.posterurl %}
-      <font size="2"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.videourl }}">Video</a> | <a href="{{ post.posterurl }}">Poster</a> </font>
+      <font size="4"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.videourl }}">Video</a> | <a href="{{ post.posterurl }}">Poster</a> </font>
     {% elsif post.paperurl and post.slidesurl and post.videourl %}
-      <font size="2"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.videourl }}">Video</a> </font>
+      <font size="4"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.videourl }}">Video</a> </font>
     {% elsif post.citation and post.slidesurl and post.posterurl %}
-      <font size="2"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a> </font>
+      <font size="4"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> | <a href="{{ post.posterurl }}">Poster</a> </font>
     {% elsif post.citation and post.slidesurl %}
-      <font size="2"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> </font>
+      <font size="4"> <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a> </font>
     {% elsif post.citation %}
-      <font size="2"> <a href="{{ post.paperurl }}">Paper</a> </font>
+      <font size="4"> <a href="{{ post.paperurl }}">Paper</a> </font>
     {% endif %}
     
 <!--     
