@@ -1,15 +1,17 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
-1. _layout/single.html  controls single page of publication [https://lslsliushu.github.io/publication/2025-03-01-paper-title-number-11](https://lslsliushu.github.io/publication/2025-03-01-paper-title-number-11)
+1. [_layout/single.html](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_layouts/single.html)  controls single page of publication [https://lslsliushu.github.io/publication/2025-03-01-paper-title-number-11](https://lslsliushu.github.io/publication/2025-03-01-paper-title-number-11)
 
-2. _includes/archive-single.html  controls the format of each item of publication [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+2. [_includes/archive-single.html](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_includes/archive-single.html)  controls the format of each item of publication [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
 
-3. _pages/publications.html  determines the layout of the entire publication page [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+3. [_pages/publications.html](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/publications.html)  determines the layout of the entire publication page [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
 
-4. _pages/about.md, determines other pages (e.g. About) in your personal webpage [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+4. [_publications/...](https://github.com/LSLSliushu/LSLSliushu.github.io/tree/master/_publications) contains the markdown files of the each publication data
 
-   _pages/cv.md, determines other pages (e.g. CV) in the personal webpage [https://lslsliushu.github.io/cv/](https://lslsliushu.github.io/cv/), ...
+5. [_pages/about.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/about.md), determines other pages (e.g. About) in your personal webpage [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+
+   [_pages/cv.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/cv.md), determines other pages (e.g. CV) in the personal webpage [https://lslsliushu.github.io/cv/](https://lslsliushu.github.io/cv/), ...
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
