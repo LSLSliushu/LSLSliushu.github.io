@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-05-01-paper-title-number-7
 excerpt: 'Jiaojiao Fan∗, Shu Liu∗, Shaojun Ma, Haomin Zhou, Yongxin Chen'
 date: 2023-05-01
-venue: 'Transaction on Machine Learning Research [Featured Certification]'
+venue: 'Transaction on Machine Learning Research [Featured Certification], 2023'
 slidesurl: 'http://LSLSliushu.github.io/files/NeuralMongeMapSlides.pdf'
 paperurl: 'http://LSLSliushu.github.io/files/NeuralMongeMap.pdf'
 citation: ''
