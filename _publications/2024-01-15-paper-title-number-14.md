@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-01-15-paper-title-number-14
 excerpt: 'Jianbo Cui, Shu Liu, Haomin Zhou'
 date: 2024-01-15
-venue: 'arXiv: 2401.15954.'
+venue: 'arXiv: 2401.15954, 2024'
 slidesurl: ''
 paperurl: 'http://LSLSliushu.github.io/files/compute_HJ_via_density_coupling.pdf'
 citation: ''
