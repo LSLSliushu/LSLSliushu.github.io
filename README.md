@@ -13,7 +13,9 @@
 
    [_pages/cv.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/cv.md), determines other pages (e.g. CV) in the personal webpage [https://lslsliushu.github.io/cv/](https://lslsliushu.github.io/cv/), ...
 
-6. Keep/Remove modules: modify in [_data/navigation.yml](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_data/navigation.yml). 
+6. Keep/Remove modules: modify in [_data/navigation.yml](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_data/navigation.yml).
+
+7. Add avatar to [images](https://github.com/LSLSliushu/LSLSliushu.github.io/tree/master/images) folder, the format has to be ".png"
 
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
