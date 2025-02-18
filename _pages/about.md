@@ -16,5 +16,5 @@ My research focuses on scientific computing, numerical analysis, and machine lea
 
 In addition, I am also interested in sampling and optimal control problems on graphs.
 
-Feel free to contact me (shuliu[at]math[dot]UCLA[dot]edu) if you are interested in my research!   
+Feel free to contact me (shuliu[at]math[dot]ucla[dot]edu) if you are interested in my research!   
 
