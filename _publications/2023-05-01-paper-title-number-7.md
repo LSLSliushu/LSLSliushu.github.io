@@ -6,8 +6,8 @@ permalink: /publication/2023-05-01-paper-title-number-7
 excerpt: 'Jiaojiao Fan∗, Shu Liu∗, Shaojun Ma, Haomin Zhou, Yongxin Chen'
 date: 2023-05-01
 venue: 'Transaction on Machine Learning Research [Featured Certification], 2023'
-slidesurl: 'http://LSLSliushu.github.io/files/NeuralMongeMap_compressed.pdf'
-paperurl: 'http://LSLSliushu.github.io/files/NeuralMongeMap.pdf'
+paperurl: 'http://LSLSliushu.github.io/files/NeuralMongeMap_compressed.pdf'
+slidesurl: 'http://LSLSliushu.github.io/files/NeuralMongeMapSlides.pdf.pdf'
 citation: ''
 ---
 The short version of this paper titled "Scalable Computation of Monge Maps with General Costs" is published at ICLR 2022 Workshop on Deep Generative Models for Highly Structured Data (DGM4HSD). https://openreview.net/forum?id=rEnGR3VdDW5
