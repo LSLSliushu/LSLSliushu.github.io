@@ -9,7 +9,7 @@
 
 4. [_publications/...](https://github.com/LSLSliushu/LSLSliushu.github.io/tree/master/_publications) contains the markdown files of the each publication data
 
-5. [_pages/about.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/about.md), determines other pages (e.g. About) in your personal webpage [https://lslsliushu.github.io/publications/](https://lslsliushu.github.io/publications/)
+5. [_pages/about.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/about.md), determines other pages (e.g. About) in your personal webpage [https://lslsliushu.github.io](https://lslsliushu.github.io)
 
    [_pages/cv.md](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_pages/cv.md), determines other pages (e.g. CV) in the personal webpage [https://lslsliushu.github.io/cv/](https://lslsliushu.github.io/cv/), ...
 
