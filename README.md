@@ -17,6 +17,9 @@
 
 7. Add avatar to [images](https://github.com/LSLSliushu/LSLSliushu.github.io/tree/master/images) folder, the format has to be ".png"
 
+8. The left panel in the homepage could be modified from [ config.yml](https://github.com/LSLSliushu/LSLSliushu.github.io/blob/master/_config.yml)
+
+9. Talk, Teaching, etc. are controlled by [pages](https://github.com/LSLSliushu/LSLSliushu.github.io/tree/master/_pages)
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
