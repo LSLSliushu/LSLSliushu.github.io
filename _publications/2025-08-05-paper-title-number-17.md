@@ -7,4 +7,5 @@ excerpt: 'Hao Wu, Shu Liu, Xiaojing Ye, Haomin Zhou'
 date: 2025-08-05
 venue: 'arXiv: 2505.11762'
 paperurl: 'http://lslsliushu.github.io/files/PWHF_Schrodinger_equ.pdf'
+citation: ''
 ---
