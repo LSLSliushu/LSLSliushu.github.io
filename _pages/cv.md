@@ -16,8 +16,10 @@ Education
 
 Work experience
 ======
-* July, 2022 - : Hedrick Adjunct Assistant Professor
-  * University of California, Los Angeles
+* August, 2025 - : Assistant Professor
+  * Department of Mathematics, Florida State University
+* July, 2022 - June, 2025: Hedrick Adjunct Assistant Professor
+  * Department of Mathematics, University of California, Los Angeles
   
 Talks
 ======
@@ -25,7 +27,10 @@ To be updated.
   
 Teaching
 ======
-At UCLA (2022-)
+At FSU (2025-)
+* Instructor for MAC 2311 Calculus I
+
+At UCLA (2022-2025)
 * Instructor for PIC 10A Introduction to programming (C++)
 * Instructor for PIC 20A Java Language and its application
 
